@@ -12,3 +12,7 @@
 * Discord: https://discord.gg/UsbHGENsc2
 * Instagram: http://www.instagram.com/hurikura
 * Youtube: https://www.youtube.com/@hurikura
+
+## 🌈 Contribution Guidelines
+
+私たちのすべてのオープンソースプロジェクトに貢献することを歓迎します👏
