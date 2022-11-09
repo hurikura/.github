@@ -1,12 +1,14 @@
-## Hi there 👋
+# フリくら
 
-<!--
+![フリくら](https://user-images.githubusercontent.com/91340399/200746277-2c1cdabe-9fee-416a-be2e-bc30b1ebbc99.png)
 
-**Here are some ideas to get you started:**
+フリくらは、Minecraftを活用して日本全国の不登校の子どもたちなどがのびのびと楽しめる第三の居場所を目指したコミュニティです。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔗 Links
+
+* Website: https://hurikura.com
+* Wiki: https://wiki.hurikura.com
+* Twitter: https://twitter.com/hurikura
+* Discord: https://discord.gg/UsbHGENsc2
+* Instagram: http://www.instagram.com/hurikura\
+* Youtube: https://www.youtube.com/@hurikura
