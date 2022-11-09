@@ -10,5 +10,5 @@
 * Wiki: https://wiki.hurikura.com
 * Twitter: https://twitter.com/hurikura
 * Discord: https://discord.gg/UsbHGENsc2
-* Instagram: http://www.instagram.com/hurikura\
+* Instagram: http://www.instagram.com/hurikura
 * Youtube: https://www.youtube.com/@hurikura
