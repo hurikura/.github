@@ -12,6 +12,7 @@
 * Twitter: https://twitter.com/hurikura
 * Instagram: http://www.instagram.com/hurikura
 * Youtube: https://www.youtube.com/@hurikura
+* Patreon: https://www.patreon.com/hurikura
 
 ## 🌈 Contribution Guidelines
 
